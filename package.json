@@ -1,0 +1,32 @@
+{
+  "name": "xysti-chatbot",
+  "version": "0.0.1",
+  "description": "Facebook Messenger chatbot for Xysti, the on-demand sports and physical activity app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomoakley/xysti-chatbot.git"
+  },
+  "keywords": [
+    "chatbot",
+    "node",
+    "javascript",
+    "es6",
+    "facebook",
+    "messenger",
+    "claudia.js"
+  ],
+  "author": "Tom Oakley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomoakley/xysti-chatbot/issues"
+  },
+  "homepage": "https://github.com/tomoakley/xysti-chatbot#readme",
+  "dependencies": {
+    "claudia-bot-builder": "^2.10.0",
+    "huh": "^2.0.1"
+  }
+}

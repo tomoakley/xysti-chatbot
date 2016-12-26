@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "xysti-chatbot-executor",
+    "name": "xysti-chatbot",
+    "region": "eu-west-1"
+  },
+  "api": {
+    "id": "gyd864jekd",
+    "module": "bot"
+  }
+}
